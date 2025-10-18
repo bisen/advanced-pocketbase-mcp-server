@@ -2,7 +2,7 @@
 
 [![smithery badge](https://smithery.ai/badge/pocketbase-server)](https://smithery.ai/server/pocketbase-server)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/your-username/advanced-pocketbase-mcp-server)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bisen/advanced-pocketbase-mcp-server)
 
 A comprehensive MCP server that provides sophisticated tools for interacting with PocketBase databases. This server enables advanced database operations, schema management, and data manipulation through the Model Context Protocol (MCP). **Now with full Cloudflare Workers support and Durable Objects for serverless deployment!**
 
@@ -233,12 +233,12 @@ Deploy to Smithery's managed platform for hosted MCP servers with zero infrastru
 
 Deploy to Cloudflare's global edge network with Durable Objects for stateful MCP sessions:
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/your-username/advanced-pocketbase-mcp-server)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bisen/advanced-pocketbase-mcp-server)
 
 **Quick Deploy:**
 ```bash
 # Clone and deploy
-git clone https://github.com/your-username/advanced-pocketbase-mcp-server
+git clone https://github.com/bisen/advanced-pocketbase-mcp-server
 cd advanced-pocketbase-mcp-server
 npm install
 npm run build
@@ -694,7 +694,7 @@ For developers who want to modify the server:
 npm install -g @smithery/cli
 
 # Clone and develop
-git clone https://github.com/your-username/advanced-pocketbase-mcp-server
+git clone https://github.com/bisen/advanced-pocketbase-mcp-server
 cd advanced-pocketbase-mcp-server
 npm install
 
